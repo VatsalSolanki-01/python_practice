@@ -1,0 +1,13 @@
+stud1=[]
+finput1 = input("enter marks :- ")
+stud1.append(finput1)
+finput2 = input("enter marks :- ")
+stud1.append(finput2)
+finput3 = input("enter marks :- ")
+stud1.append(finput3)
+finput4 = input("enter marks :- ")
+stud1.append(finput4)
+finput5 = input("enter marks :- ")
+stud1.append(finput5)
+stud1.sort()
+print(stud1)
